@@ -1,0 +1,10 @@
+epel-release
+yum-utils
+device-mapper-persistent-data
+lvm2
+git
+python-devel
+python-pip
+ansible
+python-docker-py
+vim-enhanced
